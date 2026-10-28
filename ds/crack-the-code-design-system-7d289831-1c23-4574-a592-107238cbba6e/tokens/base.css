@@ -1,0 +1,7 @@
+*{box-sizing:border-box}
+body{margin:0;font-family:var(--font-functional);color:var(--text-primary);background:var(--bg-canvas);font-size:var(--fs-body);line-height:var(--lh-body);text-wrap:pretty}
+h1,h2,h3,h4{font-family:var(--font-functional);font-weight:var(--fw-bold);line-height:var(--lh-heading);letter-spacing:var(--ls-tight);margin:0}
+p{margin:0}
+a{color:var(--text-link);text-decoration:none}
+a:hover{color:var(--text-link-hover);text-decoration:underline}
+.emotional{font-family:var(--font-emotional);font-weight:300;letter-spacing:var(--ls-display);text-transform:none}
